@@ -1,0 +1,9 @@
+{
+  "connection_parameters": {
+    "base_url": "https://postman-echo.com",
+    "auth_type": "basic-auth",
+    "username": "postman",
+    "password": "password",
+    "insecure": "True"
+  }
+}
